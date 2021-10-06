@@ -68,7 +68,7 @@ function App() {
         onEnded={songEndHandler}
       ></audio>
       <h4 className="footer">
-        Made with 🖖🏾️ by{" "}
+        🖖🏾️ - by{" "}
         <a className="link" href="https://github.com/GR33NL0TU5/" target="_blank">
           GR33NL0TU5
         </a>
