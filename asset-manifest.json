@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Lofi-Music-Player-App/static/css/main.a9e96971.chunk.css",
+    "main.js": "/Lofi-Music-Player-App/static/js/main.a22bee8d.chunk.js",
+    "main.js.map": "/Lofi-Music-Player-App/static/js/main.a22bee8d.chunk.js.map",
+    "runtime-main.js": "/Lofi-Music-Player-App/static/js/runtime-main.5863237d.js",
+    "runtime-main.js.map": "/Lofi-Music-Player-App/static/js/runtime-main.5863237d.js.map",
+    "static/js/2.22549d6f.chunk.js": "/Lofi-Music-Player-App/static/js/2.22549d6f.chunk.js",
+    "static/js/2.22549d6f.chunk.js.map": "/Lofi-Music-Player-App/static/js/2.22549d6f.chunk.js.map",
+    "index.html": "/Lofi-Music-Player-App/index.html",
+    "static/css/main.a9e96971.chunk.css.map": "/Lofi-Music-Player-App/static/css/main.a9e96971.chunk.css.map",
+    "static/js/2.22549d6f.chunk.js.LICENSE.txt": "/Lofi-Music-Player-App/static/js/2.22549d6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5863237d.js",
+    "static/js/2.22549d6f.chunk.js",
+    "static/css/main.a9e96971.chunk.css",
+    "static/js/main.a22bee8d.chunk.js"
+  ]
+}
